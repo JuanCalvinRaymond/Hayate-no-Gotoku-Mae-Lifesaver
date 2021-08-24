@@ -1,0 +1,25 @@
+{
+  "title": "Hayate no Gotoku Mae Lifesavers",
+  "description": "<manga description>",
+  "artist": "Hata Kenjiro",
+  "author": "Hata Kenjiro",
+  "cover": "https://imgur.com/ye11vw1",
+  "chapters": {
+    "1": {
+      "title": "Summer is the sea afterall",
+      "volume": "1",
+      "groups": {
+        "Fanazador": "/proxy/api/imgur/chapter/Lx200Dd/"
+      },
+      "last_updated": "1629856585"
+    },
+    "2": {
+      "title": "There is not really a reason to come from Australia",
+      "volume": "1",
+      "groups": {
+        "Fanazador": "/proxy/api/imgur/chapter/4a5Obbu/"
+      },
+      "last_updated": "1629856585"
+    }
+  }
+}
